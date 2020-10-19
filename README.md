@@ -1,3 +1,8 @@
+# MODIFIED
+This fork adds a flag `images-path` which lets you specify a custom image directory (useful for custom storage adaptors)
+
+Original readme below.
+
 # ghost-purge-images
 Display or clean unused uploaded images of your Ghost blog
 
