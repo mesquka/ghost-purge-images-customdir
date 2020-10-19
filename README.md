@@ -1,6 +1,9 @@
 # MODIFIED
 This fork adds a flag `images-path` which lets you specify a custom image directory (useful for custom storage adaptors)
 
+Install this fork with `npm install -g https://github.com/mesquka/ghost-purge-images-customdir`
+Uninstall this fork with `npm uninstall -g ghost-purge-images`
+
 Original readme below.
 
 # ghost-purge-images
